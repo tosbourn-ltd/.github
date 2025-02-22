@@ -8,4 +8,4 @@ We can:
 - [Maintain your Ruby on Rails project](https://tosbourn.com/ruby-on-rails-maintenance/), freeing up your team to work on features
 - Lead your development team, helping to increase developer happiness and productivity
 
-See some of our [awesome clients](https://tosbourn.com/clients/)
+See some of our [awesome clients](https://tosbourn.com/clients/), or connect [on LinkedIn](https://www.linkedin.com/company/19658308/).
